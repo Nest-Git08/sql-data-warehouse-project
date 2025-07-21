@@ -1,2 +1,4 @@
 # sql-data-warehouse-project
 Building a modern data warehouse with SQL Server, ETL processes, data modelling, and analytics
+
+#### My first data warehouse project
